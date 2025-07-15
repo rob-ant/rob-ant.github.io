@@ -8,7 +8,7 @@ function App() {
 
       <section>
         <h2>About Me</h2>
-        <p>I’m an engineer with a passion for building both hardware and software. I’m currently working in...</p>
+        <p>I'm an engineer with a passion for building both hardware and software. I'm currently working in...</p>
       </section>
 
       <section>
