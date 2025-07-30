@@ -17,7 +17,7 @@ function App() {
       </section>
 
       <section>
-        <h2>CV / Contact</h2>
+        <h2>Contact</h2>
         <p>You can reach me at <a href="mailto:ra215223217@gmail.com">ra215223217@gmail.com</a></p>
       </section>
 
