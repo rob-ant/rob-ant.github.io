@@ -8,7 +8,7 @@ function App() {
 
       <section>
         <h2>About Me</h2>
-        <p>I'm an engineer with a passion for building both hardware and software. I'm currently working in...</p>
+        <p>I'm an engineer with a passion for bla bla bla... I actually just start many projects to learn about things and stop once I "think" I know how they work. I made this site to try document some of the more complete ones.</p>
       </section>
 
       <section>
@@ -19,7 +19,6 @@ function App() {
       <section>
         <h2>CV / Contact</h2>
         <p>You can reach me at <a href="mailto:ra215223217@gmail.com">ra215223217@gmail.com</a></p>
-        <a href="/cv.pdf" download>Download My CV</a>
       </section>
 
       <footer>
